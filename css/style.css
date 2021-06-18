@@ -39,3 +39,19 @@ text-transform: uppercase;
     top: 996px; 
 
 }
+
+#footer {
+    background-color: #005677;
+    width: 70%;
+    height: 20px;
+    bottom: 0;
+    margin:auto;
+    display: block;}
+  
+
+}
+#textofooter {
+    color:white;
+    background-color: #ffffff;
+    text-align:center;
+}
