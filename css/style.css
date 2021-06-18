@@ -1,0 +1,41 @@
+/* centrar la pagina */
+#contenedor {
+    
+    margin: auto;
+    width: 70%;
+}
+
+/* se define la foto de perfil en el centro */
+
+#foto {
+    margin:auto;
+    display: block;}
+   
+/*definir encabezado hoja de vida con color */
+
+.encabezadocv {
+    background-color:#C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:35px; 
+    font-weight=700px;
+text-align:center;
+text-transform: uppercase;
+}
+
+.subtitulos {
+    background-color:#C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+#redes-sociales {
+    background-color: #005677;
+    width: 20px;
+    height: 20px;
+    left: 772px;
+    top: 996px; 
+
+}
