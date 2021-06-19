@@ -8,8 +8,9 @@
 /* se define la foto de perfil en el centro */
 
 #foto {
+    display: block;
     margin:auto;
-    display: block;}
+    }
    
 /*definir encabezado hoja de vida con color */
 
@@ -19,8 +20,8 @@
     font-family: 'Times New Roman', Times, serif;
     font-size:35px; 
     font-weight=700px;
-text-align:center;
-text-transform: uppercase;
+    text-align:center;
+    text-transform: uppercase;
 }
 
 .subtitulos {
@@ -33,20 +34,20 @@ text-transform: uppercase;
 
 #redes-sociales {
     background-color: #005677;
-    width: 20px;
     height: 20px;
     left: 772px;
+    width: 20px;
     top: 996px; 
 
 }
 
 #footer {
     background-color: #005677;
-    width: 70%;
     height: 20px;
     bottom: 0;
     margin:auto;
-    display: block;}
+    display: block;
+    width: 70%;}
   
 
 }
